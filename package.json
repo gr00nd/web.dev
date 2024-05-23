@@ -80,7 +80,7 @@
     "firebase-tools": "^9.3.0",
     "gorko": "^0.8.0",
     "gray-matter": "^4.0.3",
-    "gulp": "^4.0.0",
+    "gulp": "^5.0.0",
     "gulp-sass": "^5.0.0",
     "iso-639-1": "^2.1.0",
     "js-cookie": "^2.2.1",
@@ -113,7 +113,7 @@
     "truncate-utf8-bytes": "^1.0.2",
     "unistore": "^3.4.1",
     "web-vitals": "^3.1.1",
-    "webdev-infra": "1.0.54",
+    "webdev-infra": "1.0.57",
     "wicg-inert": "^3.1.2",
     "yaml-front-matter": "^4.0.0",
     "@mdn/browser-compat-data": "5.2.57"
