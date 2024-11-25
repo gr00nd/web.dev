@@ -100,7 +100,7 @@
     "postcss": "^8.2.10",
     "prettier": "^2.3.2",
     "prismjs": "^1.28.0",
-    "purgecss": "^4.0.0",
+    "purgecss": "^7.0.2",
     "rimraf": "^3.0.2",
     "rollup": "^2.64.0",
     "rollup-plugin-istanbul": "^3.0.0",
